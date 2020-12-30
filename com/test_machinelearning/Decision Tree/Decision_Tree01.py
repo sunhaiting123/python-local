@@ -25,9 +25,6 @@ def calcShannonEnt(dataSet):
     return shannonEnt
 
 
-
-
-
 def createDataSet():
     dataSet = [[0, 0, 0, 0, 'no'],  # 数据集
                [0, 0, 0, 1, 'no'],
